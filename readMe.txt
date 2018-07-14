@@ -3,7 +3,7 @@
 
 The databricks public link for the project is
 
-	https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/957490241968034/2278296410500454/8369728141520448/latest.html
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/957490241968034/2278296410500454/8369728141520448/latest.html
 
 The kaggle competition link is
 
